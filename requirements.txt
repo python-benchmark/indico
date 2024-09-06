@@ -73,7 +73,7 @@ colorclass==2.2.2
     # via -r requirements.in
 commonmark==0.9.1
     # via rich
-cryptography==38.0.3
+cryptography==43.0.1
     # via authlib
 decorator==5.1.1
     # via ipython
@@ -119,7 +119,7 @@ flask-marshmallow==0.14.0
     # via -r requirements.in
 flask-migrate==3.1.0
     # via -r requirements.in
-flask-multipass==0.4.9
+flask-multipass==0.5.5
     # via -r requirements.in
 flask-pluginengine==0.4.1
     # via -r requirements.in
